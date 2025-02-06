@@ -1,0 +1,24 @@
+@use "aos/src/sass/aos" as aos;
+@use "react-modal-video/scss/modal-video" as modal;
+@use "bootstrap/scss/bootstrap" as bootstrap;
+@use "swiper/scss" as swiper;
+@use "swiper/scss/navigation" as nav;
+@use "swiper/scss/pagination" as pagination;
+@use "swiper/scss/parallax" as parallax;
+@use "swiper/scss/effect-fade" as fade;
+@use "swiper/scss/effect-coverflow" as coverflow;
+@use "swiper/scss/autoplay" as autoplay;
+@use "/public/assets/sass/style.scss" as style;
+
+// CSS imports come after @use
+@import "lightgallery/css/lightgallery.css";
+@import "lightgallery/css/lg-zoom.css";
+@import "lightgallery/css/lg-thumbnail.css";
+@import "lightgallery/css/lg-fullscreen.css";
+@import "lightgallery/css/lg-share.css";
+
+// Tailwind CSS
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+

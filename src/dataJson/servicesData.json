@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "img": "/assets/img/service/service_1.jpg",
+        "title": "Oil and natural gas",
+        "desp": "Oil and natural gas are essential to providing the energy we use every day. Our diverse set of assets helps us find and produce energy the world needs."
+    },
+    {
+        "id": 2,
+        "img": "/assets/img/service/service_2.jpg",
+        "title": "Fuels",
+        "desp": "From drives across town to travel across countries, we’ve been providing quality transportation fuels for more than 140 years. And we’ll continue to deliver affordable, reliable, lower carbon fuels into the future."
+    },
+    
+    {
+        "id": 4,
+        "img": "/assets/img/service/service_4.jpg",
+        "title": "Chemicals and additives",
+        "desp": "Together with our partners, Chevron is a leading manufacturer of petrochemicals and additives that are essential to creating everyday consumer and industrial products, as well as maximizing the reliability, efficiency and life of engines."
+    },
+    {
+        "id": 3,
+        "img": "/assets/img/service/service_3.jpg",
+        "title": "lubricants",
+        "desp": "From motor oil for the family car to lubricants for heavy duty transportation and industrial equipment, we deliver premium products that help improve fuel economy and extend the period between oil changes."
+    }
+]

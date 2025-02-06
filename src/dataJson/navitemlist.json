@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Home",
+        "link": "/",
+        "key": "home"
+    },
+    {
+        "title": "About",
+        "link": "/about",
+        "key": "about"
+    },
+    {
+        "title": "Service",
+        "link": "/service",
+        "key": "service"
+    },
+    {
+        "title": "Search",
+        "link": "/search",
+        "key": "service"
+    },
+
+   
+    {
+        "title": "Contact",
+        "link": "/contact",
+        "key": "contact"
+    }
+]
