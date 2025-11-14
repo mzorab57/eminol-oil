@@ -158,7 +158,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-4 mt-4 lg:mt-0">
               <Link
-                to="https://www.facebook.com/profile.php?id=61571786186088&mibextid=ZbWKwL"
+                to="https://www.facebook.com/share/1CrpV82aLT/?mibextid=wwXIfr"
                 className="hover:opacity-80"
               >
                 <img
@@ -167,20 +167,20 @@ const Footer = () => {
                   className="w-6"
                 />
               </Link>
-              <Link className="hover:opacity-80">
+              {/* <Link className="hover:opacity-80">
                 <img
                   src="/assets/img/icon/linkedinicon.svg"
                   alt="LinkedIn"
                   className="w-6"
                 />
-              </Link>
-              <Link className="hover:opacity-80">
+              </Link> */}
+              {/* <Link className="hover:opacity-80">
                 <img
                   src="/assets/img/icon/twittericon.svg"
                   alt="Twitter"
                   className="w-6"
                 />
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
